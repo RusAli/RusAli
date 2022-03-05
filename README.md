@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ruslan (Product QA Developer)
+- 👋 Hi, I’m Ruslan (Product QA Developer in Epicor Software Corporation)
 - 👀 I’m interested in Quality Assurance  
 - 🌱 I’m currently learning automation with javascript
 - 📫 How to reach me telegram (@alimrus)
