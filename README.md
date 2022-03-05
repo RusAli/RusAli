@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ruslan (Product QA Developer in Epicor Software Corporation)
 - 👀 I’m interested in Quality Assurance  
 - 🌱 I’m currently learning automation with javascript
-- 📫 How to reach me telegram (@alimrus)
+- 📫 Reach me with telegram (@alimrus)
 
 <!---
 RusAli/RusAli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
