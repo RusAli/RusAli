@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ruslan (Product QA Developer)
 - 👀 I’m interested in Quality Assurance  
-- 🌱 I’m currently learning automation with javasript
+- 🌱 I’m currently learning automation with javascript
 - 📫 How to reach me telegram (@alimrus)
 
 <!---
