@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning automation with Java and Javascript
 - 📫 Reach me with telegram (@alimrus)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RusAli)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RusAli&show_icons=true&theme=radical)
 
 <!---
 RusAli/RusAli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
