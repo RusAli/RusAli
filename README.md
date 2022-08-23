@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ruslan (Product QA Developer in Epicor Software Corporation)
 - 👀 I’m interested in Quality Assurance  
-- 🌱 I’m currently learning automation with Java and Javascript
+- 🌱 I’m currently learning automation with Java
 - 📫 Reach me with telegram (@alimrus)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RusAli&show_icons=true&theme=radical)
