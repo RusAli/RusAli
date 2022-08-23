@@ -12,7 +12,7 @@
 <img width="6%" title="JUnit5" src="images/logo/JUnit5.svg">
 <img width="6%" title="GitHub" src="images/logo/GitHub.svg">
 <img width="6%" title="Jenkins" src="images/logo/Jenkins.svg">
-  <img width="6%" title="Maven" src="images/logo/Maven.svg">
+  <img width="6%" title="Maven" src="images/logo/Maven.png">
 </p>
 
 <!---
